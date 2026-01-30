@@ -2,5 +2,6 @@ Name: Olaleye Aderinola
 Matric Number: 22CG031921
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://winecultivarproject-kr52.onrender.com
+Live URL: https://winecultivarproject-1-n1jq.onrender.com
 GitHub Repository: https://github.com/Derinola-code/WineCultivarProject
+
